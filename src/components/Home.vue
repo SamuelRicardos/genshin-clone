@@ -22,7 +22,7 @@
           alt=""
           className=" z-20 w-[389px]"
         />
-        <p class="text-xl mb-6 drop-shadow-md">Explore o mundo de Teyvat</p>
+        <p class="text-xl mb-6 drop-shadow-md">Explore o Mundo de Aventura</p>
         <button
           class="bg-yellow-500 hover:bg-yellow-600 text-white text-[20px] font-bold px-30 py-3 rounded shadow-lg cursor-pointer"
         >
